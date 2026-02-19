@@ -1,0 +1,89 @@
+
+[
+  {
+    "id": "EMP001",
+    "name": "Ahmed Al-Rashid",
+    "email": "ahmed.r@deriv.ae",
+    "role": "HFT Core Developer",
+    "department": "Algo Trading",
+    "hire_date": "2022-05-10",
+    "nationality": "UAE",
+    "visa_expiry": "2026-10-10",
+    "pattern": "burnout",
+    "metrics": [
+      { "week": 1, "commits": 15, "meeting_hours": 12, "after_hours_sessions": 1, "code_reviews_given": 4, "prs_merged": 5, "messages_sent": 120 },
+      { "week": 2, "commits": 12, "meeting_hours": 18, "after_hours_sessions": 3, "code_reviews_given": 2, "prs_merged": 3, "messages_sent": 150 },
+      { "week": 3, "commits": 8, "meeting_hours": 24, "after_hours_sessions": 5, "code_reviews_given": 1, "prs_merged": 2, "messages_sent": 180 },
+      { "week": 4, "commits": 4, "meeting_hours": 32, "after_hours_sessions": 8, "code_reviews_given": 0, "prs_merged": 1, "messages_sent": 210 }
+    ]
+  },
+  {
+    "id": "EMP002",
+    "name": "Sarah Chen",
+    "email": "sarah.c@deriv.ae",
+    "role": "Lead UX Architect (Trading Platform)",
+    "department": "Creative & UI",
+    "hire_date": "2023-01-15",
+    "nationality": "Singaporean",
+    "visa_expiry": "2025-06-12",
+    "pattern": "hidden_talent",
+    "peer_signals": "Expertly simplified the binary options interface. Highly collaborative across frontend teams.",
+    "metrics": [
+      { "week": 1, "commits": 12, "meeting_hours": 8, "after_hours_sessions": 0, "code_reviews_given": 12, "prs_merged": 4, "messages_sent": 90 },
+      { "week": 2, "commits": 14, "meeting_hours": 10, "after_hours_sessions": 0, "code_reviews_given": 15, "prs_merged": 5, "messages_sent": 110 },
+      { "week": 3, "commits": 11, "meeting_hours": 9, "after_hours_sessions": 1, "code_reviews_given": 18, "prs_merged": 3, "messages_sent": 95 },
+      { "week": 4, "commits": 13, "meeting_hours": 8, "after_hours_sessions": 0, "code_reviews_given": 22, "prs_merged": 6, "messages_sent": 105 }
+    ]
+  },
+  {
+    "id": "EMP003",
+    "name": "Mariam Al-Mansoori",
+    "email": "mariam.m@deriv.ae",
+    "role": "AI Research Scientist",
+    "department": "Predictive Analytics",
+    "hire_date": "2021-11-20",
+    "nationality": "UAE",
+    "visa_expiry": "2027-11-20",
+    "pattern": "normal",
+    "metrics": [
+      { "week": 1, "commits": 5, "meeting_hours": 15, "after_hours_sessions": 2, "code_reviews_given": 8, "prs_merged": 2, "messages_sent": 80 },
+      { "week": 2, "commits": 6, "meeting_hours": 14, "after_hours_sessions": 1, "code_reviews_given": 10, "prs_merged": 3, "messages_sent": 85 },
+      { "week": 3, "commits": 5, "meeting_hours": 16, "after_hours_sessions": 2, "code_reviews_given": 7, "prs_merged": 2, "messages_sent": 90 },
+      { "week": 4, "commits": 7, "meeting_hours": 15, "after_hours_sessions": 1, "code_reviews_given": 9, "prs_merged": 3, "messages_sent": 88 }
+    ]
+  },
+  {
+    "id": "EMP004",
+    "name": "Arjun Mehta",
+    "email": "arjun.m@deriv.ae",
+    "role": "Blockchain Security Lead",
+    "department": "Internal Security",
+    "hire_date": "2023-08-01",
+    "nationality": "Indian",
+    "visa_expiry": "2025-08-01",
+    "pattern": "normal",
+    "metrics": [
+      { "week": 1, "commits": 20, "meeting_hours": 5, "after_hours_sessions": 0, "code_reviews_given": 5, "prs_merged": 8, "messages_sent": 50 },
+      { "week": 2, "commits": 22, "meeting_hours": 6, "after_hours_sessions": 0, "code_reviews_given": 4, "prs_merged": 7, "messages_sent": 55 },
+      { "week": 3, "commits": 19, "meeting_hours": 5, "after_hours_sessions": 0, "code_reviews_given": 6, "prs_merged": 8, "messages_sent": 52 },
+      { "week": 4, "commits": 21, "meeting_hours": 7, "after_hours_sessions": 0, "code_reviews_given": 5, "prs_merged": 9, "messages_sent": 60 }
+    ]
+  },
+  {
+    "id": "EMP005",
+    "name": "Laila Youssef",
+    "email": "laila.y@deriv.ae",
+    "role": "Motion Graphics Designer",
+    "department": "Marketing Creative",
+    "hire_date": "2024-02-12",
+    "nationality": "Lebanese",
+    "visa_expiry": "2026-02-12",
+    "pattern": "normal",
+    "metrics": [
+      { "week": 1, "commits": 2, "meeting_hours": 10, "after_hours_sessions": 0, "code_reviews_given": 2, "prs_merged": 1, "messages_sent": 40 },
+      { "week": 2, "commits": 1, "meeting_hours": 12, "after_hours_sessions": 1, "code_reviews_given": 1, "prs_merged": 1, "messages_sent": 45 },
+      { "week": 3, "commits": 3, "meeting_hours": 11, "after_hours_sessions": 0, "code_reviews_given": 3, "prs_merged": 2, "messages_sent": 38 },
+      { "week": 4, "commits": 2, "meeting_hours": 10, "after_hours_sessions": 0, "code_reviews_given": 2, "prs_merged": 1, "messages_sent": 42 }
+    ]
+  }
+]

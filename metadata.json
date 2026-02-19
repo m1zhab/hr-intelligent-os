@@ -1,0 +1,8 @@
+{
+  "name": "HR Intelligence OS",
+  "description": "An AI-powered HR platform featuring predictive burnout detection, invisible onboarding, and a real-time AI interview assistant powered by advanced local and cloud nodes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

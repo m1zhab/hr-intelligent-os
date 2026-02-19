@@ -60,4 +60,4 @@ The Advanced Node requires a valid API key configured in the environment. The sy
 ---
 
 ### Preview
-Use it here : [Preview](https://ai.studio/apps/drive/1a381ESYv_EYgjXLkIgx8WtxbHq8YTrdl)
+Use it here : [HR Dashboard](https://ai.studio/apps/drive/1a381ESYv_EYgjXLkIgx8WtxbHq8YTrdl)
